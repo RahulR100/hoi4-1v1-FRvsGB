@@ -1,0 +1,15 @@
+﻿l_english:
+	pla.1.t:0 "The Game Begins!"
+	pla.1.d:0 "The Fatherland calls upon us! Our military is ready for your orders. Let us once and for all show the communists the superiority of our way of life."
+	plb.1.t:0 "The Game Begins!"
+	plb.1.d:0 "The Motherland is prepared! We shall take not one step back until the fascist scums are lying on their backs in Berlin."
+
+	pla.2.t:0 "Select war declaration date"
+	pla.2.d:0 "An automatic declaration event will take place to set you at war with your opponent. If you select different times then your war will begin at the earlier of those two times."
+	plb.2.t:0 "Select war declaration date"
+	plb.2.d:0 "An automatic declaration event will take place to set you at war with your opponent. If you select different times then your war will begin at the earlier of those two times."
+
+	pla.3.t:0 "Do you want resources from the trade republic?"
+	pla.3.d:0 "If you say yes you will be allowed to trade. If you say no, then you will not. Note, the choice you make also effects your opponent. In the event that you choose different answers, it will default to the most restrictive option."
+	plb.3.t:0 "Do you want resources from the trade republic?"
+	plb.3.d:0 "If you say yes you will be allowed to trade. If you say no, then you will not. Note, the choice you make also effects your opponent. In the event that you choose different answers, it will default to the most restrictive option."
